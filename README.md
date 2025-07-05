@@ -1,1 +1,3 @@
 # To-Do-List-Application
+In today's fast-paced world, managing tasks efficiently is crucial for productivity. People often struggle with organizing their daily activities, leading to missed deadlines and decreased efficiency. Traditional methods, such as paper lists or remembering tasks mentally, are prone to errors and forgetfulness.
+The To-Do List Application aims to solve this problem by providing a structured way to manage tasks. Users can add, update, delete, and categorize tasks based on priority and status. The system ensures flexibility by storing tasks using dynamic memory allocation and allowing seamless retrieval when needed. Additionally, it prevents data loss by saving task records in a file.
